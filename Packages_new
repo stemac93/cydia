@@ -1,0 +1,45 @@
+Package: com.stemac.fmio
+Name: FMIO
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS12 Find My iPhone on iOS13!
+Maintainer: stemac <stemac93@gmail.com>
+Author: stemac <stemac93@gmail.com>
+Section: Stock Apps Porting
+Depends: 
+Filename: debs/FMIO.deb
+Size: 1218812
+MD5sum: 0fdf7ddee9765c78f7712aec52e61a97
+SHA1: c5b15383813e39cc96e1df759d9801327e056e9d
+SHA256: a552edc4b32bf6f22ca2edb8d861eebf1067b210320ea7a9cde54bd3753c9bd2
+
+Package: com.stemac.fmfo
+Name: FMFO
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS12 Find My Friends on iOS13!
+Maintainer: stemac <stemac93@gmail.com>
+Author: stemac <stemac93@gmail.com>
+Section: Stock Apps Porting
+Depends: 
+Filename: debs/FMFO.deb
+Size: 1218812
+MD5sum: 0fdf7ddee9765c78f7712aec52e61a97
+SHA1: c5b15383813e39cc96e1df759d9801327e056e9d
+SHA256: a552edc4b32bf6f22ca2edb8d861eebf1067b210320ea7a9cde54bd3753c9bd2
+
+Package: com.stemac.reminder12
+Name: Reminder12
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS12 Find My Friends on iOS13!
+Maintainer: stemac <stemac93@gmail.com>
+Author: stemac <stemac93@gmail.com>
+Section: Stock Apps Porting
+Depends: 
+Filename: debs/Reminder12.deb
+Size: 1218812
+MD5sum: 0fdf7ddee9765c78f7712aec52e61a97
+SHA1: c5b15383813e39cc96e1df759d9801327e056e9d
+SHA256: a552edc4b32bf6f22ca2edb8d861eebf1067b210320ea7a9cde54bd3753c9bd2
+
