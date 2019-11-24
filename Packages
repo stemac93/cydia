@@ -1,0 +1,14 @@
+Package: com.stemac.fmio
+Name: FMIO
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS12 Find My iPhone on iOS13!
+Maintainer: stemac <stemac93@gmail.com>
+Author: stemac <stemac93@gmail.com>
+Section: Stock Apps Porting
+Depends: 
+Filename: debs/FMIO.deb
+Size: 1218812
+MD5sum: 7a89e6cffb9934014db4069362bb857c
+SHA1: 53e93945c0a51f27bf33e0ee16be33a27c40c566
+SHA256: 1d2dcb204ac1c62175553088f465b8f84e14f5dda4c43ec3338164ada95d5089
