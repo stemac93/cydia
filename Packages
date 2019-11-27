@@ -9,7 +9,6 @@ Section: Stock Apps Porting
 Depends: 
 Filename: debs/FMIO.deb
 Size: 1218812
-Size: 1218812
 MD5sum: 0fdf7ddee9765c78f7712aec52e61a97
 SHA1: c5b15383813e39cc96e1df759d9801327e056e9d
 SHA256: a552edc4b32bf6f22ca2edb8d861eebf1067b210320ea7a9cde54bd3753c9bd2
@@ -24,7 +23,7 @@ Author: stemac <stemac93@gmail.com>
 Section: Stock Apps Porting
 Depends: 
 Filename: debs/FMFO.deb
-Size: 1218812
+Size: 961224
 MD5sum: fe239220d1d9b480d5d1e8cc97216340
 SHA1: b478533bd84f3661238f7cb09422dce298d024fd
 SHA256: cdd94e91c1969b625b3355834630634cabb383dfa0b41c326ecf38a9d0cf8280
