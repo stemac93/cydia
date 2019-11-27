@@ -28,4 +28,19 @@ MD5sum: 42b0e3467ad9cd964c1c28a6a63035da
 SHA1: 482e0350912f17c28700550052ae89859d5095e5
 SHA256: 5ecee95055ef651e7349f145f3f5ca965791e67fc3a3414b83e5e33bb8935992
 
+Package: com.stemac.reminders12
+Name: Reminders12
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iOS12 Reminders app on iOS13!
+Maintainer: stemac <stemac93@gmail.com>
+Author: stemac <stemac93@gmail.com>
+Section: Stock Apps Porting
+Depends: 
+Filename: debs/Reminder12.deb
+Size: 511352
+MD5sum: fed76ea55866cd449885d2336e9d6473
+SHA1: 8bc221c9513c6a82ccf50ab7dce8ce9cd82f4de8
+SHA256: cf670a8dd91a618310b931f24f3bed4d4d1b33fa323d9dd4a643227bc3f343ea
+
 
