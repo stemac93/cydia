@@ -37,7 +37,7 @@ Maintainer: stemac <stemac93@gmail.com>
 Author: stemac <stemac93@gmail.com>
 Section: Stock Apps Porting
 Depends: 
-Filename: debs/Reminder12.deb
+Filename: debs/Reminders12.deb
 Size: 511352
 MD5sum: fed76ea55866cd449885d2336e9d6473
 SHA1: 8bc221c9513c6a82ccf50ab7dce8ce9cd82f4de8
