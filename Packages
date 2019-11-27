@@ -23,9 +23,9 @@ Author: stemac <stemac93@gmail.com>
 Section: Stock Apps Porting
 Depends: 
 Filename: debs/FMFO.deb
-Size: 961224
-MD5sum: 53aeaa5e31b708d0b0d67994b83e9374
-SHA1: 53aeaa5e31b708d0b0d67994b83e9374
-SHA256: 12338f2cae092a9dde7e83d47d2db83eaf0bc6681cd58cf1e1278fef741843ab
+Size: 961516
+MD5sum: b1b6d256c5c9a23ffc9452ad1b8dd4f4
+SHA1: 13a824735471dba0164159dadadfc7124b198109
+SHA256: 5112f620f1ffbb29c65705f17b1ac1ae6414e68a7cccfc1ab9a7284c2744fcad
 
 
