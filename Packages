@@ -15,14 +15,14 @@ Name: FMFO
 Sponsor: YourWebSiteName
 
 Package: com.stemac.fmio
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: stemac
 Filename: ./debs/FMIO.deb
-Size: 1218812
-MD5sum: 0fdf7ddee9765c78f7712aec52e61a97
-SHA1: c5b15383813e39cc96e1df759d9801327e056e9d
-SHA256: a552edc4b32bf6f22ca2edb8d861eebf1067b210320ea7a9cde54bd3753c9bd2
+Size: 1217768
+MD5sum: 0c6c2804c6499b6ed2aefd818392c187
+SHA1: 8bd077c036bd89e23ce9defd9c4cce26dcc06f8f
+SHA256: 267f3fefa98e9c3e04ae941a24a213625f53c6a638e8cb2f0ee5e8c244b8dbd4
 Section: System
 Homepage: Your Website
 Description: iOS 12 find my iphone in iOS 13
